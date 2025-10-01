@@ -1,4 +1,1 @@
 A: main
-B: main
-C: main
-C: feature
