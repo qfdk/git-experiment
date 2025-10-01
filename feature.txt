@@ -1,2 +1,1 @@
-Feature 功能1
-Feature 功能2
+feature1
