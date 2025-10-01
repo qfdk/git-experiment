@@ -1,2 +1,3 @@
 B: main
 C: main
+C: f1
