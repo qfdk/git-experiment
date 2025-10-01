@@ -2,3 +2,4 @@ Initial content
 Master change 1
 Master change 2
 Feature change 1
+Feature change 2
